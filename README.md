@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Playwright BDD
 
 Playwright + Cucumber (Gherkin, POM, tags) against the [Toolshop](https://practicesoftwaretesting.com) 
@@ -113,3 +114,6 @@ src/support           Cucumber World
 src/utils             run wrapper + HTML reporter
 reports/              cucumber-report.json + cucumber-report.html
 ```
+=======
+# Playwright-bdd
+>>>>>>> 182bf117200f3998e25fbc4eca3ff1c6a33d4b0e
